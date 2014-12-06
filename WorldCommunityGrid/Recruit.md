@@ -1,1 +1,1 @@
-Dang it, how do i put a QR code in here?
+QR Code is in the issues listing.
